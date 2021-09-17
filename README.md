@@ -10,7 +10,7 @@ Markdown preview
 
 
 <h1 align="center">
-  <img alt="Markdown preview" height=70%" width="100%" title="Template" src="./markdown.png" />
+  <img alt="Markdown preview" height=70%" width="100%" title="Template" src="./src/markdown.png" />
 </h1> 
 
 ## Summary
